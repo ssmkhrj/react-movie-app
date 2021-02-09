@@ -1,3 +1,3 @@
 # React Movie App
 
-> Live Demo:
+> Live Demo: https://react-movie-site.netlify.app/
